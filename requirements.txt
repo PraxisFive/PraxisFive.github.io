@@ -1,0 +1,3 @@
+# Zensical is pre-1.0. 0.1.0 is scheduled for November 5, 2026 and may change
+# configuration. Stay below it until you've tested the upgrade locally.
+zensical>=0.0.63,<0.1
